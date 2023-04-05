@@ -1,0 +1,13 @@
+{
+  "name": "Prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jane Luz <janerodrigues_2610@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^4.12.0",
+    "prisma": "^4.12.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.3"
+  }
+}
